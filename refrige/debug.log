@@ -1,0 +1,15 @@
+[0316/013329.925:ERROR:crash_report_database_win.cc(426)] unexpected header
+[0316/014440.190:ERROR:crash_report_database_win.cc(426)] unexpected header
+[0316/014618.919:ERROR:crash_report_database_win.cc(426)] unexpected header
+[0316/014819.021:ERROR:process_info.cc(608)] range at 0x1e36437800000000, size 0x7 fully unreadable
+[0316/014819.021:ERROR:process_info.cc(608)] range at 0x1e3643d800000000, size 0x7 fully unreadable
+[0316/014819.021:ERROR:process_info.cc(608)] range at 0x0, size 0x7 fully unreadable
+[0316/014819.026:WARNING:in_range_cast.h(38)] value 8765633007520 out of range
+[0316/014819.026:WARNING:in_range_cast.h(38)] value 8765633624588 out of range
+[0316/014819.026:WARNING:in_range_cast.h(38)] value 8765633624644 out of range
+[0316/014819.026:WARNING:in_range_cast.h(38)] value 6367188090309032570 out of range
+[0316/014819.026:WARNING:in_range_cast.h(38)] value 6935924450530639011 out of range
+[0316/014819.026:WARNING:in_range_cast.h(38)] value 6901930188088675448 out of range
+[0316/014819.026:WARNING:in_range_cast.h(38)] value 1926463443200266484 out of range
+[0316/014819.026:WARNING:in_range_cast.h(38)] value 5768244550696815591 out of range
+[0316/014819.041:ERROR:crash_report_database_win.cc(426)] unexpected header
